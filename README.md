@@ -1,6 +1,6 @@
 # Scripts used for Analysis of RNA Editing Landscape in Medulloblastoma Subgroups
 ## RNA-seq Processing and RNA-editing Detection
-
+Example on folder Initial_Processing
 This pipeline processes paired-end RNA-seq data for **ICGC_MB** to identify candidate RNA-editing sites using the hg38 reference genome.
 
 1. **Read trimming:** Remove adapters and low-quality bases using Trim Galore and Cutadapt.
